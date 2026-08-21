@@ -29,8 +29,8 @@
 ### Grades
 
 - **Attendance (0%):** You may earn extra credit if you attend all classes.
-- **Homework (10%):** You will have 4~5 homework assignments.
-- **Exam (90%):** You will have a midterm (45%) and a final (45%).
+- **Homework (0%):** You will have 4~5 homework assignments.
+- **Exam (100%):** You will have a midterm (50%) and a final (50%).
 - **Note:** The weights of the above items are subject to change.
 
 ### Digital Devices
