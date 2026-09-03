@@ -38,7 +38,7 @@
 - **All digital devices** (laptops, tablets, smartphones, etc.) must not be visible on desks during class.
 - Exceptions: **tablets with styluses** (only for note-taking); **devices for emergencies or accessibility**.
 - Motivation: [Here's What Happened When I Made My College Students Put Away Their Phones](https://archive.is/ZVgP0) (NYT, 2025).
-- Motivation: [The Digital Delusion](https://www.amazon.com/dp/B0GTT491HL) (Book, 2025).
+- Motivation: [The Digital Delusion](https://www.amazon.com/dp/B0GTT491HL) (Book, 2026).
 
 ### Links
 
