@@ -26,9 +26,9 @@
 | 11/19 |                           | Automatic Differentiation (Forward/Reverse Mode) |     |
 | 11/24 |                           | Automatic Differentiation (Recent Results)       |     |
 | 11/26 | Integrals & Distributions | Random Numbers                                   | HW5 |
-| 12/1  |                           | Sampling (Transformation Methods)                |     |
+| 12/1  |                           | Sampling (Inversion/Transformation Methods)      |     |
 | 12/3  | —                         | _No Class (University Anniversary)_              |     |
-| 12/8  |                           | Sampling (Rejection Methods)                     |     |
+| 12/8  |                           | Sampling (Rejection/Mixture Methods)             |     |
 | 12/10 |                           | Integration (Numerical Methods)                  |     |
 | 12/15 |                           | Integration (Monte Carlo Methods)                |     |
 | 12/17 | Conclusion                | Course Review                                    |     |
