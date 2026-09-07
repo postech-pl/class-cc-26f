@@ -25,7 +25,7 @@
 - Students should enjoy both **CS and Math**, and are interested in **fundamental and theoretical** topics.
 - Students should be comfortable with doing **rigorous proofs**. This course is **highly math-intensive**.
 - Students are welcome to audit this course.
-  The following are relevant courses (not required): Automata & Formal Languages (CSED341), Programming Languages (CSED321),
+- Relevant courses (not required): Automata & Formal Languages (CSED341), Programming Languages (CSED321),
   Introduction to Numerical Analysis (MATH351), and Analysis I (MATH311).
 
 ### Grades
