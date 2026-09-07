@@ -23,7 +23,7 @@
 
 - Students should have learned Algorithms (CSED331), Calculus (MATH101), and Probability (MATH230).
 - Students should enjoy both **CS and Math**, and are interested in **fundamental and theoretical** topics.
-- Students should be comfortable with doing **rigorous mathematical proofs**. This course is highly math-intensive.
+- Students should be comfortable with doing **rigorous proofs**. This course is **highly math-intensive**.
 - Students are welcome to audit this course.
   The following are relevant courses (not required): Automata & Formal Languages (CSED341), Programming Languages (CSED321),
   Introduction to Numerical Analysis (MATH351), and Analysis I (MATH311).
