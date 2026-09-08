@@ -29,8 +29,8 @@
 
 ### Grades
 
-- **Attendance (0%):** You may earn extra credit if you attend all classes.
-- **Homework (0%):** You will have 4~5 homework assignments.
+- **Attendance (0%):** Please come to class only if you are willing to give it full attention.
+- **Homework (0%):** You will have ~5 homework assignments.
 - **Exam (100%):** You will have a midterm (50%) and a final (50%).
 - **Note:** The weights of the above items are subject to change.
 
