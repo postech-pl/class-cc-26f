@@ -1,4 +1,4 @@
-# Schedule (Current)
+# Schedule (Current / [Outdated](./schedule-old.md))
 
 | Date  | Unit                      | Topics                                           | Out |
 | ---   | ---                       | ---                                              | --- |
@@ -34,5 +34,3 @@
 | 12/17 |                           | Integration (Numerical/Monte-Carlo Methods)      |     |
 | 12/22 | —                         | _**Final Exam (19:00—22:00)**_                   |     |
 | 12/24 | —                         | _No Class (Final Week)_                          |     |
-
-# [Outdated Schedule](./schedule-old.md)
