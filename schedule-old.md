@@ -1,4 +1,4 @@
-# Schedule (Tentative)
+# Schedule (Outdated)
 
 | Date  | Unit                      | Topics                                           | Out |
 | ---   | ---                       | ---                                              | --- |
